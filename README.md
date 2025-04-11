@@ -47,31 +47,32 @@ This project is a comprehensive implementation of **Market Basket Analysis** usi
    git clone https://github.com/your-username/market-basket-analysis.git
    cd market-basket-analysis
 2.**Install Required Libraries**
-  cmd: pip install pandas mlxtend matplotlib seaborn
+```bash
+  pip install pandas mlxtend matplotlib seaborn
+```
+-------------------------------------------------------------------------------------------------------------------------------------------
+### **Sample Outputs**
+- **Bar charts comparing support, confidence, and lift.**
+- **Heatmaps showing strong association rules.**
+- **Rule tables with sorted metrics.**
+- **Terminal-based recommendations from user-entered data.**
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-**Sample Outputs**
-Bar charts comparing support, confidence, and lift.
-Heatmaps showing strong association rules.
-Rule tables with sorted metrics.
-Terminal-based recommendations from user-entered data.
-
+### **Insights & Applications**
+- **Identify frequently bought itemsets to boost cross-selling.**
+- **Understand consumer behavior and optimize shelf layouts or product bundles.**
+- **Enhance personalized marketing using user-specific recommendation outputs.**
 -------------------------------------------------------------------------------------------------------------------------------------------
-**Insights & Applications**
-Identify frequently bought itemsets to boost cross-selling.
-Understand consumer behavior and optimize shelf layouts or product bundles.
-Enhance personalized marketing using user-specific recommendation outputs.
+### **Future Scope**
+- **Integration with a GUI or web app for user-friendly interaction.**
+- **Real-time transactional data integration.**
+- **Improved algorithms like FP-Growth for larger datasets.**
 -------------------------------------------------------------------------------------------------------------------------------------------
-**Future Scope**
-Integration with a GUI or web app for user-friendly interaction.
-Real-time transactional data integration.
-Improved algorithms like FP-Growth for larger datasets.
+### **Contributors**
+- **1. Shreenand Bandre.**
+- **2. Rushikesh Shinde.**
+- **3. Yash Gaikwad.**
 -------------------------------------------------------------------------------------------------------------------------------------------
-**Contributors**
-1. Shreenand Bandre.
-2. Rushikesh Shinde.
-3. Yash Gaikwad.
--------------------------------------------------------------------------------------------------------------------------------------------
-**Feedback**
-Feel free to open issues or pull requests. We appreciate any kind of feedback to improve our project!
+### **Feedback**
+- **Feel free to open issues or pull requests. We appreciate any kind of feedback to improve our project!**
 
